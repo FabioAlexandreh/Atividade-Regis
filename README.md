@@ -19,11 +19,12 @@ python atividade.py
 
 # Escolha uma das opções disponíveis:
 
-> Adicionar Tarefa: Permite adicionar uma nova tarefa à lista.
-> Listar Tarefas: Lista todas as tarefas atualmente na lista.
-> Marcar Tarefa como Concluída: Permite marcar uma tarefa como concluída.
-> Remover Tarefa Concluída: Remove todas as tarefas marcadas como concluídas da lista.
-> Remover Tarefa: Remove uma tarefa específica da lista.
-> Remover Todas as Tarefas: Remove todas as tarefas da lista.
-> Sair: Encerra o programa.
+- Adicionar Tarefa: Permite adicionar uma nova tarefa à lista.
+- Listar Tarefas: Lista todas as tarefas atualmente na lista.
+- Marcar Tarefa como Concluída: Permite marcar uma tarefa como concluída.
+- Remover Tarefa Concluída: Remove todas as tarefas marcadas como concluídas da lista.
+- Remover Tarefa: Remove uma tarefa específica da lista.
+- Remover Todas as Tarefas: Remove todas as tarefas da lista.
+- Sair: Encerra o programa.
+
 
